@@ -118,6 +118,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Jannes E
 - Max G
 - JohntyR
+- [Sean Sharma](https://github.com/seanmksha)
 - [Emily Cain](https://github.com/MagicMilly)
 - Shilpa Patwary(https://github.com/shilpapatwary)
 - [Alex Mably](https://github.com/amably)
